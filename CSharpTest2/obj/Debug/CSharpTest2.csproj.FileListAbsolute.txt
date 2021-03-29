@@ -1,0 +1,10 @@
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\bin\Debug\CSharpTest2.exe.config
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\bin\Debug\CSharpTest2.exe
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\bin\Debug\CSharpTest2.pdb
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\obj\Debug\CSharpTest2.csprojAssemblyReference.cache
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\obj\Debug\CSharpTest2.Form1.resources
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\obj\Debug\CSharpTest2.Properties.Resources.resources
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\obj\Debug\CSharpTest2.csproj.GenerateResource.cache
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\obj\Debug\CSharpTest2.csproj.CoreCompileInputs.cache
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\obj\Debug\CSharpTest2.exe
+C:\Users\Spon'k\source\repos\CSharpTest2\CSharpTest2\obj\Debug\CSharpTest2.pdb
