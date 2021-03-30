@@ -1,1 +1,1 @@
-# Simple-C-PingPong
+# Simple-C#-PingPong
