@@ -1,1 +1,1 @@
-# Simple-C#-PingPong (no .exe)
+# Simple-C#-PingPong
