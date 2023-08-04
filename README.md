@@ -1,2 +1,2 @@
 # Simple-C#-PingPong
-Minor technology-testing project
+Minor library-testing project
